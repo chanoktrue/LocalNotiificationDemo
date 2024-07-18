@@ -11,6 +11,7 @@
 		CDB7CD2A2C495EBE004ABAA8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB7CD292C495EBE004ABAA8 /* ContentView.swift */; };
 		CDB7CD2C2C495EBF004ABAA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDB7CD2B2C495EBF004ABAA8 /* Assets.xcassets */; };
 		CDB7CD2F2C495EBF004ABAA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDB7CD2E2C495EBF004ABAA8 /* Preview Assets.xcassets */; };
+		CDB7CD362C495F73004ABAA8 /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB7CD352C495F73004ABAA8 /* NotificationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CDB7CD292C495EBE004ABAA8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CDB7CD2B2C495EBF004ABAA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDB7CD2E2C495EBF004ABAA8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CDB7CD352C495F73004ABAA8 /* NotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				CDB7CD272C495EBE004ABAA8 /* LocalNotificationDemoApp.swift */,
+				CDB7CD352C495F73004ABAA8 /* NotificationManager.swift */,
 				CDB7CD292C495EBE004ABAA8 /* ContentView.swift */,
 				CDB7CD2B2C495EBF004ABAA8 /* Assets.xcassets */,
 				CDB7CD2D2C495EBF004ABAA8 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDB7CD362C495F73004ABAA8 /* NotificationManager.swift in Sources */,
 				CDB7CD2A2C495EBE004ABAA8 /* ContentView.swift in Sources */,
 				CDB7CD282C495EBE004ABAA8 /* LocalNotificationDemoApp.swift in Sources */,
 			);
